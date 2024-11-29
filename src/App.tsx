@@ -35,6 +35,8 @@ function App() {
           }}
         />
       </div>
+      {/* Quote Fetcher Component */}
+      <QuoteFetcher />
     </div>
   );
 }
